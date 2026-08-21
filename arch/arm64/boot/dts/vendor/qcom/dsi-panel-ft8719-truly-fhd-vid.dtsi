@@ -32,8 +32,8 @@
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-lp11-init;
 		qcom,mdss-dsi-reset-sequence = <1 5>, <0 2>, <1 20>;
-		qcom,mdss-pan-physical-width-dimension = <65>;
-		qcom,mdss-pan-physical-height-dimension = <129>;
+		qcom,mdss-pan-physical-width-dimension = <69>;
+		qcom,mdss-pan-physical-height-dimension = <150>;
 		qcom,mdss-dsi-te-pin-select = <1>;
 		qcom,mdss-dsi-wr-mem-start = <0x2c>;
 		qcom,mdss-dsi-wr-mem-continue = <0x3c>;
